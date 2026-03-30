@@ -677,6 +677,10 @@
     width: 20vw;
   }
 
+   .screen2 .mazetablet{
+      display: none !important;
+   }
+   
   .screen2 .backphone{
    display: block;
     position: absolute;
@@ -1094,8 +1098,8 @@
   .screen2 .maze-container,
   .screen2 .overlay,
   .screen2 .popup,
-  .screen2 .screen2-video {
-    display: none !important;
+  .screen2 .mazetablet{
+      display: none !important;
   }
 
   .screen2 .backphone {
