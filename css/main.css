@@ -374,7 +374,7 @@ html, body {
 .exhibition-description-phone { display: none; }
 .backphone { display: none; }
 .phone-about-title { display: none; }
-.screen2-video { display: none; }
+.mazetablet { display: none; }
 
 
 .overlay {
@@ -801,7 +801,7 @@ html, body {
 
 
 /*адаптив мобилка*/
-.iphonescreen2-video {
+.mazeiphone {
   display: none;
 }
 
